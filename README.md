@@ -52,10 +52,11 @@ local-produce-store
 - Java JDK (version 8 or higher recommended)
 
 ## Contributors
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+- Karabo Zoe Kula 202406163
+- Bubelebenkosi Nathaniel Dube 202406089
+- Theo Shawn Thakadu 202002374
+- Utlwang Utlwang 202003747
+- Kyle Theo Skosana Masilonyane 202401193
 
 ## .gitignore
 This project includes a `.gitignore` file to exclude compiled class files and IDE-specific files from version control.
